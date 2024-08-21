@@ -12,7 +12,10 @@ Este es un ejemplo de una aplicación Flutter para la gestión de usuarios. La a
 
 ### Screenshots
 
-[Agregar screenshots aqui]
+<img src="https://github.com/user-attachments/assets/cfc2b68d-5fa0-41c1-8f84-c573052ccd95" alt="Screenshot_20240821-113520" width="160"/>
+<img src="https://github.com/user-attachments/assets/dee79617-2fd8-4dc8-8601-0db5f3e88ff7" alt="Screenshot_20240821-113533" width="160"/>
+<img src="https://github.com/user-attachments/assets/898e3161-44fd-4683-9809-91f298b7f962" alt="Screenshot_20240821-113538" width="160"/>
+<img src="https://github.com/user-attachments/assets/2a86b3c7-1c46-4304-8986-ace6a394808d" alt="Screenshot_20240821-113542" width="160"/>
 
 ## Tecnologías Utilizadas
 
